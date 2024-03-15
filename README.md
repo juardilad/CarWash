@@ -10,5 +10,5 @@ Integrantes:
 <li>Julian Andres Gómez Niño - JulianGomezN</li>
 <li>Nestor Steven Piraquive Garzón - nestors11</li>
 <li>Martin Moreno Jara - Martin-Moreno-Jara</li>
-<li>Luis Felipe Tolosa Sierra - LuisFelipe133</li>
+<li>Luis Felipe Tolosa Sierra - Luis-Felipe-Tolosa</li>
 </ol>
