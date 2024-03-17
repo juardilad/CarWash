@@ -1,14 +1,8 @@
-# CarWash
-Car Wash: Es una aplicación para gestionar el servicio y empleados de un lavado de carros
+# LabTestIngesoft1
+IngesoftLabTest
 
-Nombre Equipo: Gatos Cuánticos
-Integrantes: 
+Team: ClassExample
 
-<ol>
-<li>Juan David Ardila Diaz - juardilad</li>
-<li>Juan Esteban Cárdenas Huertas - J-HuertaS</li>
-<li>Julian Andres Gómez Niño - JulianGomezN</li>
-<li>Nestor Steven Piraquive Garzón - nestors11</li>
-<li>Martin Moreno Jara - Martin-Moreno-Jara</li>
-<li>Luis Felipe Tolosa Sierra - Luis-Felipe-Tolosa</li>
-</ol>
+Work Team: Name1 - name1@email.com
+           Name2 - name2@email.com
+           Name3 - name3@email.com
